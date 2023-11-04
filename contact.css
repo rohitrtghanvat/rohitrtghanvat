@@ -34,9 +34,7 @@ form h3{
     font-weight: 800;
     margin-bottom: 20px;
 }
-.newcontact{
-    padding-top: 100px;
-}
+
 form input, form textarea{
     border: 0;
     margin: 10px 0;
@@ -59,4 +57,8 @@ form button{
     -moz-border-radius: 30px;
     -ms-border-radius: 30px;
     -o-border-radius: 30px;
+}
+
+.newcontact{
+    padding-top: 30px;
 }
